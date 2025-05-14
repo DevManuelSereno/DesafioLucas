@@ -1,7 +1,5 @@
 package org.example.Questao7;
 
-// Questão 7 Desafio Lucas
-
 public class ListaEstaticaEncadeada {
 
     // Tamanho máximo da lista
@@ -72,7 +70,6 @@ public class ListaEstaticaEncadeada {
         System.out.println();
     }
 
-    // Função principal de teste
     public static void main(String[] args) {
         ListaEstaticaEncadeada lista = new ListaEstaticaEncadeada();
 

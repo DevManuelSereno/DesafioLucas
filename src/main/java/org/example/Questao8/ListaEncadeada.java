@@ -1,7 +1,5 @@
 package org.example.Questao8;
 
-// Questão 8 Desafio Lucas
-
 public class ListaEncadeada {
 
     static class No {
@@ -90,7 +88,6 @@ public class ListaEncadeada {
         return l4;
     }
 
-    // Teste principal
     public static void main(String[] args) {
         ListaEncadeada l1 = new ListaEncadeada();
         ListaEncadeada l2 = new ListaEncadeada();
